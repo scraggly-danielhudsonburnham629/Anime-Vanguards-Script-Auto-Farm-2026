@@ -1,0 +1,7 @@
+psutil
+opencv-python
+pillow
+click
+numpy
+pygetwindow
+pynput
